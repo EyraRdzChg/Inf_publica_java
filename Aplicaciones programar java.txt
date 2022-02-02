@@ -1,0 +1,8 @@
+Eclipse
+Es un IDE muy popular de código abierto y ampliamente extendido. Fue desarrollador originalmente por IBM aunque actualmente cuenta con una gran comunidad que le da soporte con una gigantesca biblioteca de plugins. Es multiplataforma (Windows, Linux y Mac) y dispone de nuevas versiones cada año. Con Eclipse es posible desarrollar todo tipo de aplicaciones para web, escritorio o móviles usando Java, C, C++, JSP, perl, Python, Ruby y PHP.
+
+IntelliJ Idea
+La Community Edition, libre descarga, y la versión Ultimate Edition que cuesta la friolera de más de 500 dólares de suscripción anual, según el plan que contratemos, pero que podemos probar gratis durante 30 días si lo que queremos es echarle un vistazo a todo lo que puede ofrecer.
+
+BlueJ
+Estoy seguro que has visto este IDE antes. Está presente en innumerables cantidades de vídeos y tutoriales en Youtube. La principal razón es que en cierto momento James Gosling, el creador de Java, dijó dijo que BlueJ era uno de sus IDE IDEs favoritos. Esto desencadenó que de pronto en muchas escuelas y academias se usará BlueJ para dar clase pues era el IDE del momento.
